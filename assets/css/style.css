@@ -149,10 +149,10 @@ footer {
         background: rgba(161, 2, 214, 0.452);
     }
     .title-en {
-        font-size: 16vw;
+        font-size: 17vw;
     }
     .title-jp {
-        font-size: 12vw;
+        font-size: 13vw;
     }
     .content {
         height: auto;
@@ -165,7 +165,7 @@ footer {
     }
     h1.title {
         width: 100%;
-        font-size: 13.5vw;
+        font-size: 14.5vw;
         margin-left: 0;
         margin-top: -25% !important;
     }
